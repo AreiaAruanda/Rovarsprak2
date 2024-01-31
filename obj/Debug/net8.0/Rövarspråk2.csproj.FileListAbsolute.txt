@@ -1,0 +1,14 @@
+C:\Users\lipsk\source\repos\Rövarspråk2\bin\Debug\net8.0\Rövarspråk2.exe
+C:\Users\lipsk\source\repos\Rövarspråk2\bin\Debug\net8.0\Rövarspråk2.deps.json
+C:\Users\lipsk\source\repos\Rövarspråk2\bin\Debug\net8.0\Rövarspråk2.runtimeconfig.json
+C:\Users\lipsk\source\repos\Rövarspråk2\bin\Debug\net8.0\Rövarspråk2.dll
+C:\Users\lipsk\source\repos\Rövarspråk2\bin\Debug\net8.0\Rövarspråk2.pdb
+C:\Users\lipsk\source\repos\Rövarspråk2\obj\Debug\net8.0\Rövarspråk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lipsk\source\repos\Rövarspråk2\obj\Debug\net8.0\Rövarspråk2.AssemblyInfoInputs.cache
+C:\Users\lipsk\source\repos\Rövarspråk2\obj\Debug\net8.0\Rövarspråk2.AssemblyInfo.cs
+C:\Users\lipsk\source\repos\Rövarspråk2\obj\Debug\net8.0\Rövarspråk2.csproj.CoreCompileInputs.cache
+C:\Users\lipsk\source\repos\Rövarspråk2\obj\Debug\net8.0\Rövarspråk2.dll
+C:\Users\lipsk\source\repos\Rövarspråk2\obj\Debug\net8.0\refint\Rövarspråk2.dll
+C:\Users\lipsk\source\repos\Rövarspråk2\obj\Debug\net8.0\Rövarspråk2.pdb
+C:\Users\lipsk\source\repos\Rövarspråk2\obj\Debug\net8.0\Rövarspråk2.genruntimeconfig.cache
+C:\Users\lipsk\source\repos\Rövarspråk2\obj\Debug\net8.0\ref\Rövarspråk2.dll

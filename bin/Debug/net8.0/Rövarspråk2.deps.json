@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Rövarspråk2/1.0.0": {
+        "runtime": {
+          "Rövarspråk2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rövarspråk2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
